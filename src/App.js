@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Exemple from './components/Exemple';
 
 const App = () => {
   return (
     <div>
-      start of project
+      <Exemple />
     </div>
   );
 }
